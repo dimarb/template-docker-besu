@@ -1,4 +1,4 @@
-## Plantilla para implementar red Mesu usando Docker
+## Plantilla para implementar red Hypeprledger Besu usando Docker
 
 Este proyecto implementar entornos para iniciar con la implementación de redes hyperledger besu en entornos empresariales.
 
